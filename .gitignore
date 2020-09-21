@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# tex sources
+tex/
+
+# drafts
+drafts/
